@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: d284341a9d06e44f2b68300bd202857f
+timeCreated: 1441753199
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: greyBow_Sprites_0
+    21300002: greyBow_Sprites_1
+    21300004: greyBow_Sprites_2
+    21300006: greyBow_Sprites_3
+    21300008: greyBow_Sprites_4
+    21300010: greyBow_Sprites_5
+    21300012: greyBow_Sprites_6
+    21300014: greyBow_Sprites_7
+    21300016: greyBow_Sprites_8
+    21300018: greyBow_Sprites_9
+    21300020: greyBow_Sprites_10
+    21300022: greyBow_Sprites_11
+    21300024: greyBow_Sprites_12
+    21300026: greyBow_Sprites_13
+    21300028: greyBow_Sprites_14
+    21300030: greyBow_Sprites_15
+    21300032: greyBow_Sprites_16
+    21300034: greyBow_Sprites_17
+    21300036: greyBow_Sprites_18
+    21300038: greyBow_Sprites_19
+    21300040: greyBow_Sprites_20
+    21300042: greyBow_Sprites_21
+    21300044: greyBow_Sprites_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: greyBow_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1149
+        width: 203
+        height: 262
+      alignment: 9
+      pivot: {x: .475284904, y: .0633894354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 939
+        width: 152
+        height: 444
+      alignment: 9
+      pivot: {x: .504598141, y: .8510198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1106
+        width: 479
+        height: 337
+      alignment: 9
+      pivot: {x: .165874571, y: .504147828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 760
+        width: 220
+        height: 690
+      alignment: 9
+      pivot: {x: .5, y: .850000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 760
+        width: 220
+        height: 690
+      alignment: 9
+      pivot: {x: .5, y: .850000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 174
+        width: 520
+        height: 1219
+      alignment: 9
+      pivot: {x: .0479877181, y: .502825201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 328
+        width: 136
+        height: 1031
+      alignment: 9
+      pivot: {x: .569637537, y: .0465471223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 903
+        width: 126
+        height: 194
+      alignment: 9
+      pivot: {x: .444253594, y: .225864679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 976
+        width: 567
+        height: 111
+      alignment: 9
+      pivot: {x: .508628368, y: .638520122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 941
+        width: 544
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 884
+        width: 528
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 165
+        width: 261
+        height: 658
+      alignment: 9
+      pivot: {x: .585365415, y: .0990164876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 408
+        width: 152
+        height: 445
+      alignment: 9
+      pivot: {x: .515429258, y: .846525908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 509
+        width: 267
+        height: 310
+      alignment: 9
+      pivot: {x: .957897425, y: .036183808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 510
+        width: 260
+        height: 315
+      alignment: 9
+      pivot: {x: .0397090018, y: .0353463292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 315
+        width: 112
+        height: 421
+      alignment: 9
+      pivot: {x: .515374303, y: .87629348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 253
+        width: 137
+        height: 493
+      alignment: 9
+      pivot: {x: .506284416, y: .877222657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 405
+        width: 450
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 178
+        width: 231
+        height: 157
+      alignment: 9
+      pivot: {x: .505075932, y: .690462947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 181
+        width: 116
+        height: 128
+      alignment: 9
+      pivot: {x: .44062227, y: .742149353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 118
+        width: 162
+        height: 123
+      alignment: 9
+      pivot: {x: .192929119, y: .77697432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 47
+        width: 126
+        height: 61
+      alignment: 9
+      pivot: {x: .233507916, y: .485886127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBow_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 199
+        width: 281
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
