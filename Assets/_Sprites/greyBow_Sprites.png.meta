@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: d284341a9d06e44f2b68300bd202857f
-timeCreated: 1441753199
+timeCreated: 1441827014
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -81,7 +81,7 @@ TextureImporter:
         width: 203
         height: 262
       alignment: 9
-      pivot: {x: .475284904, y: .0633894354}
+      pivot: {x: .335514456, y: .173584923}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: greyBow_Sprites_1
       rect:
@@ -131,7 +131,7 @@ TextureImporter:
         width: 520
         height: 1219
       alignment: 9
-      pivot: {x: .0479877181, y: .502825201}
+      pivot: {x: .0479877181, y: .50352037}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: greyBow_Sprites_6
       rect:
@@ -161,7 +161,7 @@ TextureImporter:
         width: 567
         height: 111
       alignment: 9
-      pivot: {x: .508628368, y: .638520122}
+      pivot: {x: .504079998, y: .643683374}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: greyBow_Sprites_9
       rect:
